@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/Leonardo-Oliveira-art">
-  <img heigth"180em" scr="https://share.google/tR2usZA4MoYICldTq">
+  <img heigth="180em" scr="https://share.google/tR2usZA4MoYICldTq">
 </div>
 
 Um pouco sobre mim:
