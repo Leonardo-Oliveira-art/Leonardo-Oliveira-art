@@ -2,7 +2,10 @@
 
 <div>
   <a href="https://github.com/Leonardo-Oliveira-art">
-    <img height="180em" src="https://cdn.motor1.com/images/mgl/rKEObO/s3/jaecoo-j7.webp" style="border-radius: 20px">
+    <img
+  height="180em"
+  src="https://cdn.motor1.com/images/mgl/rKEObO/s3/jaecoo-j7.webp"
+  style="border-radius: 20px;">
   </a>
 </div>
 
