@@ -5,21 +5,21 @@
 Técnico em Secretariado | Designer Gráfico | Marketing/Tráfego Pago/SEO | E-commerce e Sites | Assistência Administrativa | Iniciante em Desenvolvimento de Sistemas
 
 Um pouco sobre mim:
-- 🛒 Atualmente trabalho com marketing e E-commerce
-- 🎓 Estudante de ADS
-- 😄 Pronouns: ele/dele
+-  Atualmente trabalho com marketing e E-commerce
+-  Estudante de ADS
+-  Pronouns: ele/dele
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,supabase,git,github,vscode,react,linux,ps,ai,cloudflare,canva" />
 
-## 🤖 IAs que uso no dia a dia
+##  IAs que uso no dia a dia
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-## 📈 Minhas contribuições
+##  Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardo-Oliveira-art/Leonardo-Oliveira-art/output/github-contribution-grid-snake-dark.svg">
